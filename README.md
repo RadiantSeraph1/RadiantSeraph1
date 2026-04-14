@@ -64,11 +64,11 @@ My work sits at the intersection of full-stack development and cybersecurity. I 
 
 | Project | Description | Stack |
 |---|---|---|
-| **[GRC Auditor](#)** | STRIDE-based conversational threat modelling assistant (FYP) | FastAPI · LangGraph · ChromaDB · Claude API |
-| **[Radiant Operations Matrix](#)** | Full internal ops platform — JWT auth, RBAC, CRUD, SMS integration | React · Node.js · PostgreSQL · Brevo |
-| **[Ray (Personal AI)](#)** | Jarvis-inspired AI assistant deployed on AWS EC2 | FastAPI · LangGraph · Claude API |
-| **[Sweet Influence Food Court](#)** | Restaurant platform with order management & payments | PHP · MySQL · Paystack · mNotify |
-| **[SecureVault](#)** | Deliberately vulnerable captive portal for STRIDE threat demo | PHP · mNotify · OWASP Threat Dragon |
+| **[charity-website](https://github.com/RadiantSeraph1/charity-website)** | Charity/NGO website with dynamic frontend | JavaScript · HTML · CSS |
+| **[my-portfolio](https://github.com/RadiantSeraph1/my-portfolio)** | Personal developer portfolio site | HTML · CSS · JavaScript |
+| **[Radiant-Tech-Forums](https://github.com/RadiantSeraph1/Radiant-Tech-Forums-)** | Tech community forum platform | HTML · CSS · JavaScript |
+| **[signup-and-login](https://github.com/RadiantSeraph1/signup-and-login)** | Full auth flow with signup, login & session handling | HTML · CSS · JavaScript |
+| **[login-app](https://github.com/RadiantSeraph1/login-app)** | Minimal login web app | HTML · CSS |
 
 ---
 
