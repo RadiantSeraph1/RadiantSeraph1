@@ -14,11 +14,11 @@
 
 ## About Me
 
-I'm a final-year **Computer Science & Engineering** student at the University of Mines and Technology, Tarkwa, Ghana — and CEO of **[Radiant InnovaTech](https://radiantinnovatech.com)**, a tech firm building internal tooling and client-facing platforms.
+I'm a final-year **Cyber Security** student at the University of Mines and Technology, Tarkwa, Ghana — and CEO of **[Radiant InnovaTech](https://radiantinnovatech.com)**, a tech firm building internal tooling and client-facing platforms.
 
 My work sits at the intersection of full-stack development and cybersecurity. I enjoy shipping things that are fast, secure, and actually useful.
 
-- 🎓 BSc Computer Science & Engineering @ UMaT (graduating 2025)
+- 🎓 BSc Cyber Security @ UMaT (graduating 2025)
 - 🏢 CEO @ Radiant InnovaTech, Tarkwa
 - 🔐 FYP: **GRC Auditor** — a STRIDE-based conversational threat modelling assistant
 - 🤖 Building **Ray** — a Jarvis-inspired personal AI assistant (FastAPI + LangGraph + Claude API)
